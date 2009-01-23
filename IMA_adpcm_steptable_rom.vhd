@@ -2,7 +2,7 @@
 -- Company:       VISENGI S.L. (www.visengi.com)
 -- Engineer:      Victor Lopez Lorenzo (victor.lopez (at) visengi (dot) com)
 -- 
--- Create Date:    01:34:59 31/October/2008 
+-- Create Date:    19:34:36 04/November/2008
 -- Project Name:   IMA ADPCM Encoder
 -- Tool versions:  Xilinx ISE 9.2i
 -- Description: 
@@ -14,16 +14,16 @@
 --              Compression ratio is fixed for IMA-ADPCM, being 4:1.
 --
 --
--- LICENSE TERMS: GNU LESSER GENERAL PUBLIC LICENSE Version 2.1
---     That is you may use it in ANY project (commercial or not) without paying a cent.
---     You are only required to include in the copyrights/about section of accompanying 
---     software and manuals of use that your system contains a "IMA ADPCM Encoder
---     (C) VISENGI S.L. under LGPL license"
+-- LICENSE TERMS: GNU GENERAL PUBLIC LICENSE Version 3
+--
+--     That is you may use it only in NON-COMMERCIAL projects.
+--     You are only required to include in the copyrights/about section 
+--     that your system contains a "IMA ADPCM Encoder (C) VISENGI S.L. under GPL license"
 --     This holds also in the case where you modify the core, as the resulting core
 --     would be a derived work.
 --     Also, we would like to know if you use this core in a project of yours, just an email will do.
 --
---    Please take good note of the disclaimer section of the LPGL license, as we don't
+--    Please take good note of the disclaimer section of the GPL license, as we don't
 --    take any responsability for anything that this core does.
 ----------------------------------------------------------------------------------
 
